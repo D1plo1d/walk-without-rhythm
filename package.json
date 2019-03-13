@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "walk-without-rhythm": "node ./index.js"
+  },
+  "name": "walk-without-rhythm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
